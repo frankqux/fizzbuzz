@@ -29,3 +29,5 @@ def test_number():
 
 
 # Whoops.
+def test_crap():
+    pass
