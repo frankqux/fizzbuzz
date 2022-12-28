@@ -26,8 +26,3 @@ def test_fizzbuzz():
 
 def test_number():
     assert fizzbuzz.check(1) == ("1")
-
-
-# Whoops.
-def test_crap():
-    pass
